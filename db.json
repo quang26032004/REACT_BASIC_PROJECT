@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "email": "nam@gmail.com",
+      "username": "namnv22",
+      "fullName": "Nguyen Van Nam",
+      "department": "",
+      "position": "Manager"
+    }
+  ]
+}
